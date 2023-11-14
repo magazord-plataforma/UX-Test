@@ -36,4 +36,5 @@ Esse teste tem como objetivo apenas a análise de conhecimento para os requisito
 ## Envio do teste
 
 * O documento com suas analises deve ser encaminhado para o seu recrutador no formato PDF caso tenha protótipos a ser encaminhado pode enviar o link do Figma.
+
 Obs.: Não serão aceitos alterações após o envio.
