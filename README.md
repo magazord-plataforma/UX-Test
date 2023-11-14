@@ -10,11 +10,13 @@ Este repositório tem como fim testar os candidatos para vaga de analista de UX 
 
 ## O teste
 
+
 Faça um mapeamento do fluxo de compra dos sites abaixo:
 
 **Site -** https://www.ladorosa.com.br
 
 **Produto -** https://www.ladorosa.com.br/telas-decorativas-grande-leao-branco-60cm-x-90cm
+
 
 
 **Site -** https://www.sottilecasa.com.br
