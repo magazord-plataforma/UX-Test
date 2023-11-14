@@ -12,12 +12,14 @@ Este repositório tem como fim testar os candidatos para vaga de analista de UX 
 
 Faça um mapeamento do fluxo de compra dos sites abaixo:
 
-Site - https://www.ladorosa.com.br/
-Produto - https://www.ladorosa.com.br/telas-decorativas-grande-leao-branco-60cm-x-90cm
+**Site -** https://www.ladorosa.com.br
+
+**Produto -** https://www.ladorosa.com.br/telas-decorativas-grande-leao-branco-60cm-x-90cm
 
 
-Site - https://www.sottilecasa.com.br/
-Produto - https://www.sottilecasa.com.br/jogo-toalha-de-banho-e-rosto-imperiale-02-pcs
+**Site -** https://www.sottilecasa.com.br
+
+**Produto -** https://www.sottilecasa.com.br/jogo-toalha-de-banho-e-rosto-imperiale-02-pcs
 
 
 Faça uma análise durante o processo de navegação mapeando heurísticas de usabilidade web que impactam o usuário de forma negativa. Leve em todos os fatores, inclusive aspectos subjetivos para usuários comuns (tempo de carregamento de página, por exemplo).
